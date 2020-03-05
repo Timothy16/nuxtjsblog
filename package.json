@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "My badass Nuxt.js project",
+  "author": "Timothy16",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "bootstrap-icons": "^1.0.0-alpha2",
+    "bootstrap-vue": "^2.5.0",
+    "nuxt": "^2.0.0",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {}
+}
